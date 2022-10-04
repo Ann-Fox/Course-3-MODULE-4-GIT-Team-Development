@@ -1,0 +1,53 @@
+
+[32;1m  Id     Duration CommandLine[0m
+[32;1m  --     -------- -----------[0m
+   1        0.575 . "c:\Users\Анна\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\t…
+   2        0.464 git init
+   3        0.176 git status
+   4        0.433 git commit -m 'Инициализация репозитория'
+   5        0.211 git remote add origin https://github.com/Ann-Fox/Course-3-MODULE-4-GIT-Team-Development.git
+   6        0.181 git branch -M main
+   7        0.286 git push -u origin main
+   8        0.229 git add .
+   9        0.205 git commit - m 'added index.html'
+  10        0.628 git commit -m 'added index.html'
+  11        0.161 git status
+  12        6.893 git push -u origin main
+  13        0.226 git status
+  14        0.214 git commit -m 'как исправить последний коммит'
+  15        0.299 git checkout
+  16        0.428 git reset
+  17        0.179 git status
+  18        0.295 git add .
+  19        0.173 git status
+  20        0.615 git commit -m 'исправление последнего коммита'
+  21        4.342 git push
+  22        7.510 пше дщп
+  23        0.976 git log
+  24        0.193 git status
+  25        0.310 git add .
+  26        0.515 git commit -m 'исправить последний коммит, который еще не отправили в удаленный репозиторий'
+  27        0.183 пше ыефегы
+  28        0.190 git status
+  29     3:46.137 git log
+  30        0.647 git commit --amend -m 'Новый комментарий коммита, который не был отправлен в удаленный репозиторий'
+  31        7.517 git log
+  32       44.081 git log
+  33        0.229 git branch new-branch
+  34        0.617 git branch
+  35        0.279 git checkout new-branch
+  36        0.390 git branch
+  37        0.430 git add .
+  38        0.657 git commit -m 'создание новой ветки, переход на другую ветку'
+  39        0.157 git push
+  40        4.561     git push --set-upstream origin new-branch
+  41        0.272 git checkout main
+  42        2.783 git pull
+  43        0.191 git status
+  44        0.537 git branch
+  45        0.392 git log — README
+  46        0.180 git log README
+  47        0.192 git log README history.txt
+  48        7.941 git log
+  49        0.301 cat index.html
+
